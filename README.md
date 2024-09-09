@@ -1,6 +1,6 @@
-# Diet3-JAX
+# Deit3-JAX
 
-This repository contains an implementation of the Diet3 algorithm using JAX, designed to be deployed and run on Google Cloud.
+This repository contains an implementation of the Deit3 algorithm using JAX, designed to be deployed and run on Google Cloud.
 
 ## Getting Started
 
@@ -15,17 +15,17 @@ This repository contains an implementation of the Diet3 algorithm using JAX, des
 Clone the repository:
 
 ```bash
-git clone https://github.com/machine-moon/diet3-jax.git
-cd diet3-jax
+git clone https://github.com/machine-moon/Deit3-jax.git
+cd Deit3-jax
 pip install -r requirements.txt
 ```
 
 ### Usage
 
-Train a Diet3 model:
+Train a Deit3 model:
 
 ```bash
-python -m diet3_jax.train --config configs/default.yaml
+python -m Deit3_jax.train --config configs/default.yaml
 ```
 
 ### Deployment
